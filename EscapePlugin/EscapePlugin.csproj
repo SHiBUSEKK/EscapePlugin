@@ -4,10 +4,11 @@
     <TargetFramework>net48</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
+    <LangVersion>13.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ExMod.Exiled" Version="9.6.1" />
+    <PackageReference Include="ExMod.Exiled" Version="9.7.2" />
   </ItemGroup>
 
 </Project>
